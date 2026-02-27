@@ -1,5 +1,5 @@
 ---
-title: 🪴 BeautyKim's Digital Garden
+title: 🪴 BeautyKim's Blog
 ---
 
 # 환영합니다!
